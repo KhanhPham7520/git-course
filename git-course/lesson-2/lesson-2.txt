@@ -1,0 +1,7 @@
+git init : init a new git in local
+
+git add <file_name>, : Add file <file_name> into git before commiting
+
+git add . : Add all modified file before committing
+
+git commit -m "message" : Commit modified file change with specific message
