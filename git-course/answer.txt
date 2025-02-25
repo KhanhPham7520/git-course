@@ -1,4 +1,2 @@
-git config --global user.email "phamphannhatkhanh@email.com"
-
-git config --global user.name "PW - KhanhPham"
-
+config username: git config --global user.name "your name"
+config email: git config --global user.email "your email"
